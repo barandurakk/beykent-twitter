@@ -1,0 +1,21 @@
+.signup-container{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.signup-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding-top: 100px;
+}
+
+.signup-item{
+    padding-bottom: 20px;
+}
+
+.hidden{
+    display: none;
+}

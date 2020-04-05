@@ -1,0 +1,11 @@
+.new-tweet-container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+}
+
+.new-tweet-wrapper{
+    width: 80%;
+}
